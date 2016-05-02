@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Permitira saber tu ubicación en Tourary :)</string>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoiZnJhbmNpc2NvdmFxdWVybyIsImEiOiJjaW5sejdyYnIwem00dHZseXJjMjV0Y3F0In0.C6Zq4F6I5e3EvJbzFvcJVQ</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
